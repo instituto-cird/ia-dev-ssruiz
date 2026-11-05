@@ -291,3 +291,5 @@ Ambos tracks comparten los mismos requisitos de CI, `AI_USAGE.md`, `DEMO_PLAN.md
 **Ciudad:** Luque
 
 **Qué me gustaría construir en el programa:** servicios robustos y bien documentados.
+
+[![CI](https://github.com/instituto-cird/ia-dev-ssruiz/actions/workflows/ci.yml/badge.svg)](https://github.com/instituto-cird/ia-dev-ssruiz/actions/workflows/ci.yml)
