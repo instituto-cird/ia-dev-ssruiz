@@ -12,7 +12,7 @@
 | Qué hubo que corregir o rehacer | Nada                                     |
 | Cómo se verificó                | Corriendo el script verify_setup.sh      |
 | Qué decisión fue propia         | Creación de los archivos del laboratorio |
-| Commit o PR                     |                                          |
+| Commit o PR                     | https://github.com/instituto-cird/ia-dev-ssruiz/pull/1                                  |
 
 ---
 
